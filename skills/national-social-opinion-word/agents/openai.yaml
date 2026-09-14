@@ -1,0 +1,4 @@
+interface:
+  display_name: "全国政协社情民意 Word 写作与交付"
+  short_description: "按个人样稿的署名、三部分结构与论证深度撰写全国社情民意 Word，核验后按授权邮件交付"
+  default_prompt: "请使用 $national-social-opinion-word，按个人涉企行政检查样稿的命名、署名、结构与深度完成已确认主题并核验 Word；本次要求邮件交付时发送至 917935736@qq.com 并核验附件。"

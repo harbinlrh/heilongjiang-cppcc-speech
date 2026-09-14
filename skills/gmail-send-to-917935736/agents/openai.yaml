@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gmail 可靠发送至 917935736"
+  short_description: "附件预检、按大小分批与失败分类，逐封核验已发送记录后交付"
+  default_prompt: "使用 $gmail-send-to-917935736 将指定文件发送至 917935736@qq.com，先检查附件和当前权限，必要时提出分批方案，发送后逐封核验已发送记录。"
