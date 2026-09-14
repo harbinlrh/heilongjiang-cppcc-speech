@@ -1,0 +1,4 @@
+interface:
+  display_name: "哈尔滨政策提案"
+  short_description: "按个人样稿命名、双行署名和结构撰写哈尔滨提案，核验Word并按授权邮件交付"
+  default_prompt: "使用 $harbin-policy-proposal 按个人样稿的命名、双行署名和结构撰写以上哈尔滨议题，生成独立 Word，核验后发到 917935736@qq.com。"
