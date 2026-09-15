@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑龙江省政策提案"
+  short_description: "面向黑龙江省级治理的提案、社情民意与咨政报告写作、改稿和Word交付"
+  default_prompt: "使用 $heilongjiang-policy-proposal，围绕已指定问题撰写黑龙江省级建议，核实证据与权限，按个人规范交付可编辑Word。"
