@@ -1,0 +1,4 @@
+interface:
+  display_name: "刘仁辉项目交付规范"
+  short_description: "跨项目证据与权限管理、质量验收，以及政策提案的规范写作和Word交付"
+  default_prompt: "Use $linnan-project-delivery to complete this project with traceable evidence, safe permissions, and verified deliverables."
