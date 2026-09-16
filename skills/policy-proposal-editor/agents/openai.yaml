@@ -1,6 +1,6 @@
 interface:
-  display_name: "提案样稿改写与精炼"
-  short_description: "参照样稿精炼提案，核验依据与执行边界，按需制作Word及核验邮件交付"
-  default_prompt: "使用 $policy-proposal-editor，参照我提供的样稿改写目标提案，保留核心立场和必要制度措施，并按本次要求交付。"
+  display_name: "提案撰写与样稿改写"
+  short_description: "无需上传样稿，按内置提案范式撰写与精炼，核验依据并按需制作Word交付"
+  default_prompt: "使用 $policy-proposal-editor，按内置产业园区提案范式撰写或改写我的提案；如有新样稿则优先参照，并按本次要求交付。"
 policy:
   allow_implicit_invocation: true
