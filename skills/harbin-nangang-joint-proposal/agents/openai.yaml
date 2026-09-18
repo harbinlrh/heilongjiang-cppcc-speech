@@ -1,0 +1,4 @@
+interface:
+  display_name: "哈尔滨政策提案·南岗一双署名版"
+  short_description: "沿用哈尔滨提案写作规则，使用南岗一文件名与刘仁辉、肖莉双行署名"
+  default_prompt: "使用 $harbin-nangang-joint-proposal 撰写以上哈尔滨议题，采用南岗一文件名及刘仁辉、肖莉双行署名，生成独立Word。"
