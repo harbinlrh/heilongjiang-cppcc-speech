@@ -1,0 +1,4 @@
+interface:
+  display_name: "黑龙江省提案成稿与邮件交付"
+  short_description: "总述加三至五项编号行动建议，南岗一双署名Word成稿并按授权发送固定邮箱"
+  default_prompt: "使用 $heilongjiang-proposal-word-email 按黑龙江省级口径撰写或改写材料，采用一个总述和三至五项行动建议，小标题用一、二、等编号，生成南岗一双署名Word并发送至917935736@qq.com。"
