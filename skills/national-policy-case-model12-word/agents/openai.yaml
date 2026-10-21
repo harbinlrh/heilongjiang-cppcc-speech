@@ -1,0 +1,4 @@
+interface:
+  display_name: "12号样稿全国政策稿 Word"
+  short_description: "按指定12号样稿讲清概念，用数据案例讲透三项问题，精炼三条建议，生成核验 Word"
+  default_prompt: "请使用 $national-policy-case-model12-word，严格按12号样稿的内容组织、文风、数据用法和版式改写已确认全国稿，保留通俗概念解释，以核实案例和数据展开三项问题、提出三条精炼建议，生成独立 Word 并核验。"
