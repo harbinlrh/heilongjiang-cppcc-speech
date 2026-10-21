@@ -1,0 +1,4 @@
+interface:
+  display_name: "全国政协提案写作（体育赛事样稿范式）"
+  short_description: "严格依据指定样稿，以通俗概念、实证问题和三条建议撰写全国政协提案"
+  default_prompt: "请使用 $cppcc-national-proposal，严格按指定样稿的论证方式，就我提供的主题撰写全国政协提案：先讲清概念，以核实事实和案例分析问题，再提出三条可执行建议。"
