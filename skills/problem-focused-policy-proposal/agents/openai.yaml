@@ -1,0 +1,4 @@
+interface:
+  display_name: "问题分析型提案写作"
+  short_description: "全国、黑龙江、哈尔滨通用，以数据和实例讲透问题，首段末句建议，通常三条对策"
+  default_prompt: "请使用 $problem-focused-policy-proposal，按已确认层级撰写提案，先交代背景和情况、首段末句提出总体建议，重点用核实数据和真实实例讲清问题表现、原因与影响，最后提出三条精炼建议。"
