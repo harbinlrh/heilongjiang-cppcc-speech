@@ -1,4 +1,4 @@
 interface:
   display_name: "哈尔滨提案成稿与邮件交付"
-  short_description: "总述加三至五项编号行动建议，南岗一双署名Word成稿并按授权发送固定邮箱"
-  default_prompt: "使用 $harbin-proposal-word-email 按哈尔滨口径改写材料，采用一个总述和三至五项行动建议，小标题用一、二、等编号，生成南岗一双署名Word并发送至917935736@qq.com。"
+  short_description: "首段先背景后建议，数据实例讲清问题，三至四项措施及双署名Word邮件交付"
+  default_prompt: "使用 $harbin-proposal-word-email 按哈尔滨口径改写材料，首句交代背景和情况，首段末句提出总体建议，用核实数据和真实实例讲清问题表现、原因和影响，通常提出三至四项行动建议，小标题用一、二、等编号，生成南岗一双署名Word并发送至917935736@qq.com。"
