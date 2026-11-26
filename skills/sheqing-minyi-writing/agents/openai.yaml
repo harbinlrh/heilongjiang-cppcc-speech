@@ -1,0 +1,4 @@
+interface:
+  display_name: "全国社情民意写作"
+  short_description: "从一线线索提炼全国性制度问题，完成事实核验、成稿和审稿纠偏"
+  default_prompt: "请用 $sheqing-minyi-writing 将以下材料写成全国社情民意信息。"
