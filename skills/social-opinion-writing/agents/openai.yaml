@@ -1,4 +1,4 @@
 interface:
   display_name: "社情民意信息写作与去AI味"
-  short_description: "支持全国、黑龙江、哈尔滨口径，先核实事实再写正式信息，建议具体、语言自然"
-  default_prompt: "使用 $social-opinion-writing，按我已明确的全国、黑龙江或哈尔滨层级审查材料并撰写社情民意信息；层级确有歧义时再确认。"
+  short_description: "支持全国、黑龙江、哈尔滨口径，以最新证据讲清问题和原因，建议具体、表达自然"
+  default_prompt: "使用 $social-opinion-writing，按已明确的报送层级和材料写作，默认正文5350字。先解释概念和治理价值，每项问题有最新数据或合格案例，建议写明部门、工具和动作，并完成严格复核。"
